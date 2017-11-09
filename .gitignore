@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MorseCodeDecoder/.vs/MorseCodeDecoder/v15
+/MorseCodeDecoder/MorseCodeDecoder/bin/Debug/netcoreapp2.0
+/MorseCodeDecoder/MorseCodeDecoder/obj
+/MorseCodeDecoder/MorseCodeTest/bin/Debug/netcoreapp2.0
+/MorseCodeDecoder/MorseCodeTest/obj
